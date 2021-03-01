@@ -165,7 +165,7 @@
         },
         {
             "chainId": 3,
-            "address": "0x137e5f4DD63a30E8B5058A569b49701bCF8fA10e",
+            "address": "0x9747D80cDCE1E595546c6695A01eC73A77c9E7e9",
             "name": "BondAppetit Governance",
             "symbol": "BAG",
             "decimals": 18,
@@ -173,7 +173,7 @@
         },
         {
             "chainId": 3,
-            "address": "0xcB6F86A800d20bD5afBF6d5fefcDD313b73B209C",
+            "address": "0x634d4614f16B12d7dB11Ab47b28202a1983AAD24",
             "name": "Appetite USD",
             "symbol": "USDp",
             "decimals": 18,
